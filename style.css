@@ -112,7 +112,7 @@ footer {
    Responsive Design
 ===================== */
 
-@media (min-width: 768px) {
+@media  {
     /* No changes needed for column layout */
     /* All elements will remain in single column */
     
@@ -128,4 +128,5 @@ footer {
         box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     }
 }
+
 
