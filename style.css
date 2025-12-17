@@ -109,7 +109,7 @@ footer {
    Responsive Design
 ===================== */
 
-/* @media (min-width: 768px) {
+@media (min-width: 768px) {
     .content {
         
         flex-direction: column;
@@ -124,6 +124,7 @@ footer {
     .card {
         flex: 1;
     }
-} */
+}
+
 
 
