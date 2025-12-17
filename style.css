@@ -48,7 +48,6 @@ nav a:hover {
 ===================== */
 
 main {
-    max-width: 900px;
     margin: auto;
     padding: 20px;
     background-color: #cce6ff; /* Restored background from original HTML */
@@ -125,3 +124,4 @@ footer {
         flex: 1;
     }
 }
+
