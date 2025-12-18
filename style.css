@@ -51,7 +51,6 @@ main {
     margin: auto;
     padding: 20px;
     background-color: #cce6ff; /* Restored background from original HTML */
-    max-width: 800px; /* Added to contain the content */
 }
 
 section,
@@ -128,6 +127,7 @@ footer {
         box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     }
 }
+
 
 
 
