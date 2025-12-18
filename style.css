@@ -116,10 +116,7 @@ footer {
     /* All elements will remain in single column */
     
     /* Optional: Adjust padding for larger screens */
-    main {
-        padding: 30px;
-    }
-    
+   
     /* Optional: Add subtle hover effect to cards */
     .card:hover {
         transform: translateY(-5px);
@@ -127,6 +124,7 @@ footer {
         box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     }
 }
+
 
 
 
